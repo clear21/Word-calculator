@@ -7,7 +7,7 @@
 自然言語処理Word2Vecの魅力の一つとして、単語のベクトル化による単語の足し算・引き算があります。  
 当アプリは、英単語の足し算・引き算が自由にでき、Word2Vecの魅力を体感できます。
 
-# Folder and Files
+# Folders and Files
 ┏ model_etc …  
 ┃　┣ word2disvec.txt … 各単語の分散表現  
 ┃　┣ id2word.json … 辞書（key:ID、value:単語）  
