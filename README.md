@@ -17,5 +17,8 @@
 ┣ word_calculator.ipynb … 英単語の足し算・引き算用プログラム（メイン）  
 ┗ words_list.xlsx … 単語とIDの一覧（メインアプリで入力するのは ID）  
 
+# About Model（Learning Model）
+![model_word_calc](https://user-images.githubusercontent.com/39453720/49335279-fccc2a80-f62d-11e8-8afe-4681c1748404.png)
+
 # Capture
 ![demo_word_calculator](https://user-images.githubusercontent.com/39453720/46589494-14cb7600-cae5-11e8-95b2-d9010a0b81a3.gif)
