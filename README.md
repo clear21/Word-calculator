@@ -8,7 +8,7 @@
 当アプリは、英単語の足し算・引き算が自由にでき、Word2Vecの魅力を体感できます。
 
 # Folders and Files
-┏ model_etc …  
+┏ model_etc … モデル等の格納用フォルダ  
 ┃　┣ word2disvec.txt … 各単語の分散表現  
 ┃　┣ id2word.json … 辞書（key:ID、value:単語）  
 ┃　┣ word2id.json … 辞書（key:単語、value:ID）  
